@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "jc3iLZlhVKe0t/GGA/SzZRgMAmmHUR8uLsrQnjBNv0c=",
+  "Source": "eShop.API",
+  "BasePath": "_content/eShop.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/mjusic/Code/eshop/eShop.Domain/eShop.Domain.csproj",
+      "Version": 2,
+      "Source": "eShop.Domain",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
